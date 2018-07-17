@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LabyrinthCreator
+namespace LabyrinthCreator //---------------your code is shit
 {
     static class Kruskal
     {
