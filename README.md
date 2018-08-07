@@ -8,3 +8,5 @@ Creation of maze shows step by step.
 C#, Windows Forms
 
 View of final application you can see in Screens directoty
+
+I didn't use git when developing it
